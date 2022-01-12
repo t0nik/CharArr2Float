@@ -1,6 +1,6 @@
 #include <iostream>
+#include <cstdint>
 #include <typeinfo>
-#include <string>
 #include <string.h>
 
 int main()
